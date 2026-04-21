@@ -1,7 +1,7 @@
 # Taller-01.-Stakeholders-y-Materialidad-en-el-Sector-Web
-**Modulo:** Sostenibilidad Aplicada al Sistema Productivo
-**Fecha:** 21 de abril de 2026
-**Autor:** Sergio García de Baya
+- **Modulo:** Sostenibilidad Aplicada al Sistema Productivo
+- **Fecha:** 21 de abril de 2026
+- **Autor:** Sergio García de Baya
 
 ## Que he hecho
 
