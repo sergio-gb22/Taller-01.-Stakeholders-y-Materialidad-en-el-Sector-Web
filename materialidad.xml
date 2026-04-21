@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="materialidad.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<empresa_sostenible>
+    <stakeholders>
+        <stakeholder nombre="Inversores" importancia="Alta">
+            Expectativa: Divulgación de riesgos climáticos y rentabilidad a largo plazo.
+        </stakeholder>
+        <stakeholder nombre="Empleados" importancia="Crítica">
+            Expectativa: Seguridad laboral, igualdad salarial y formación continua.
+        </stakeholder>
+        <stakeholder nombre="Comunidad Local" importancia="Media-Alta">
+            Expectativa: Generación de empleo y minimización del impacto ambiental.
+        </stakeholder>
+    </stakeholders>
+    
+    <temas_materiales>
+        <tema_material id="TM001" nivel_impacto="Ambiental">
+            <denominacion>Gestión de Residuos Circulares</denominacion>
+            <descripcion>Implementar un sistema de economía circular para reducir el desperdicio en la cadena de suministro.</descripcion>
+        </tema_material>
+        
+        <tema_material id="TM002" nivel_impacto="Social">
+            <denominacion>Diversidad de Género en el Liderazgo</denominacion>
+            <descripcion>Asegurar una representación equitativa en los niveles directivos de la organización.</descripcion>
+        </tema_material>
+
+        <tema_material id="TM003" nivel_impacto="Gobernanza">
+            <denominacion>Ética y Transparencia Corporativa</denominacion>
+            <descripcion>Fortalecimiento del canal de denuncias y auditoría de procesos de cumplimiento normativo.</descripcion>
+        </tema_material>
+    </temas_materiales>
+</empresa_sostenible>
